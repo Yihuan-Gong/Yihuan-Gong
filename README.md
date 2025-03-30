@@ -1,6 +1,6 @@
-# Hi, I'm [你的名字], a C# Developer focused on clean architecture
+# Hi, I'm 龔一桓, a C# Developer focused on clean architecture
 
-熟悉 .NET Framework 與桌面應用開發，擅長使用設計模式與 SOLID 原則設計模組化、可測試、可維護的系統。具備實戰專案經驗，並開發多款可重用的通用套件。
+熱愛從架構出發解決問題，熟悉 C# .NET Framework 後端開發，具備多個實作專案經驗。注重 SOLID 原則、MVP 架構與設計模式，擅長將需求轉化為可維護、可擴充的系統設計。
 
 ## 🛠️ Languages and Tools
 
