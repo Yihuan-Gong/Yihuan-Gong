@@ -27,23 +27,21 @@
 
 ## 📁 Project Highlights
 
-- [Finance Tracker](https://github.com/yourname/FinanceTracker)  
-  記帳與圖表分析，自製 CSV 與 AutoMapper 套件，處理記憶體與效能瓶頸。
+- [Imgur WinForm App](https://github.com/Yihuan-Gong/ImgurWinFormApp)  
+  復刻 Imgur 圖片平台，建構具自動 DI 註冊功能的多層 MVP 架構，整合 OAuth 認證與 API 操作，自製 HttpRequest 套件提升可重用性。
 
-- [Food Ordering System](https://github.com/yourname/FoodOrderingSystem)  
-  支援策略與觀察者模式，自製 LINQ 與資料結構模組，模組可重用性高。
+- [Finance Tracker](https://github.com/Yihuan-Gong/ExpenseTrackingApp)  
+  提供收支紀錄與統計圖表，自製泛型 CSV 套件處理資料載入與匯出，並設計清晰的資料流架構以支援後續模組擴充與視覺化處理。
 
-- [Cross-platform Calculator](https://github.com/yourname/CalculatorApp)  
-  使用 MAUI 實現 WinForms 應用跨平台，導入 SOLID 與 TDD。
+- [Food Ordering System](https://github.com/Yihuan-Gong/FoodOrderingApp)  
+  模組化促銷規則系統，採用策略與觀察者模式設計，支援彈性擴充與動態組合折扣推薦邏輯。
 
-- [Imgur Clone](https://github.com/yourname/ImgurClone)  
-  OAuth + API 整合，MVP 架構、自製 HttpRequest 套件與 DI 容器。
+- [Calculator](https://github.com/Yihuan-Gong/CalculatorApp)  
+  使用 MAUI 實現 WinForms 跨平台部署，導入 SOLID 原則與可測試架構，支援動態 UI 與連續運算。
 
 - [C# Shared Libraries](https://github.com/yourname/Awesome-CSharp-Utilities)  
-  多個專案共用的高可維護性工具包（DI、Mapper、CSV、Http、LINQ）
+  建立可重用的核心工具（DI、Mapper、Http、CSV 等），廣泛應用於多個中型專案以統一架構與加速開發流程。
 
-- [HPC Simulation Toolkit](https://github.com/yourname/ThesisProject)  
-  優化平行模擬程式 + Python 資料分析流程，模組化設計提升團隊效率。
 
 
 
