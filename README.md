@@ -2,9 +2,6 @@
 
 熟悉 .NET Framework 與桌面應用開發，擅長使用設計模式與 SOLID 原則設計模組化、可測試、可維護的系統。具備實戰專案經驗，並開發多款可重用的通用套件。
 
-
-## 🛠️ Languages and Tools
-
 ## 🛠️ Languages and Tools
 
 <p align="left">
@@ -25,8 +22,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/windows-10.png" alt="Windows" width="40" height="40"/>
 
-  <!-- Docs & Writing -->
-  <img src="https://img.icons8.com/ios-filled/50/000000/markdown.png" alt="Markdown" width="40" height="40"/>
 </p>
 
 
