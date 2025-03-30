@@ -2,20 +2,17 @@
 
 熟悉 .NET Framework 與桌面應用開發，擅長使用設計模式與 SOLID 原則設計模組化、可測試、可維護的系統。具備實戰專案經驗，並開發多款可重用的通用套件。
 
----
 
 ## 🛠️ Languages and Tools
 
 <p align="left">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" width="40" height="40"/>
 </p>
-
----
 
 ## 📁 Project Highlights
 
@@ -37,13 +34,6 @@
 - [HPC Simulation Toolkit](https://github.com/yourname/ThesisProject)  
   優化平行模擬程式 + Python 資料分析流程，模組化設計提升團隊效率。
 
----
-
-## 📫 Contact Me
-
-- GitHub: [yourname](https://github.com/yourname)
-- Email: your.email@example.com
-- LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
 
 
 ## 💡 Core Skills and Knowledge
@@ -75,7 +65,11 @@
   - 使用 Python 進行 FFT、統計分析與 matplotlib 圖表產出
   - 開發模組化分析流程供團隊快速應用於天文模擬研究
 
+## 📫 Contact Me
 
+- GitHub: [yourname](https://github.com/yourname)
+- Email: your.email@example.com
+- LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
 
 
 
