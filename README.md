@@ -75,10 +75,7 @@
 
 
 ## 📫 Contact Me
-
-- GitHub: [yourname](https://github.com/yourname)
-- Email: your.email@example.com
-- LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
+- Email: yihuan981@gmail.com
 
 
 
