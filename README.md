@@ -5,14 +5,31 @@
 
 ## 🛠️ Languages and Tools
 
+## 🛠️ Languages and Tools
+
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" width="40" height="40"/>
+  <!-- Programming Languages -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt=".NET" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+
+  <!-- IDE & Editor -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+
+  <!-- Tools -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" alt="GitHub" width="40" height="40"/>
+  <img src="https://img.icons8.com/fluency/48/000000/postman-api.png" alt="Postman" width="40" height="40"/>
+  
+  <!-- Platform -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/windows-10.png" alt="Windows" width="40" height="40"/>
+
+  <!-- Docs & Writing -->
+  <img src="https://img.icons8.com/ios-filled/50/000000/markdown.png" alt="Markdown" width="40" height="40"/>
 </p>
+
 
 ## 📁 Project Highlights
 
@@ -38,32 +55,32 @@
 
 ## 💡 Core Skills and Knowledge
 
-- **Architecture & Design**
-  - 熟悉 SOLID 原則、MVP 架構與多層式模組設計
-  - 具備使用 DI（依賴注入）與 AutoMapper 建立解耦架構經驗
+- **Architecture & Modular Design**
+  - 熟悉 SOLID 原則，具備模組化、可擴展、易維護的架構設計能力
+  - 擅長多層式系統拆分，應用 MVP 與依賴注入（DI）實作解耦與測試友善架構
 
-- **Asynchronous & Performance**
-  - 熟悉 async / await / Task 非同步程式設計
-  - 實作非阻塞 UI、多執行緒處理與 Thread 安全控制
-  - 優化 CSV 大量資料讀寫與平行處理
+- **Asynchronous Programming & Performance**
+  - 熟練 async / await / Task，應用於 UI 非阻塞與大檔非同步處理場景
+  - 理解 Thread / Lock 等同步控制機制，能處理多執行緒下的資料一致性與效能瓶頸
+  - 實作平行處理與高效資料存取邏輯，優化大規模 CSV 檔案處理流程
 
-- **Networking & API Integration**
-  - 串接 RESTful API（Imgur、Google OAuth、Line Notify）
-  - 自製 HttpRequest 套件支援非同步與授權管理
-  - 熟悉 TCP/IP、HTTP、DNS、封包結構與網路層級原理
+- **System Integration & Networking**
+  - 串接 RESTful API，熟悉 OAuth2.0 認證流程與授權資料處理
+  - 自製 HttpRequest 套件，封裝通用請求邏輯，支援非同步與授權管理
+  - 理解 TCP/IP、HTTP、DNS、封包結構與通訊流程，具備穩固網路協定基礎
 
-- **Tooling & Testing**
-  - 撰寫單元測試、熟悉 TDD 流程
-  - 使用 Git / GitFlow 進行多人開發與版本控管
-  - 建立 Visual Studio 專案模板與開發流程標準化
+- **Testability & Maintainability**
+  - 具備撰寫可測試、模組化的高可維護程式碼能力
+  - 架構設計強調邊界明確與責任分離，支援單元測試與系統擴充性
 
-- **Reusable Libraries & Internal Tooling**
-  - 自製 CSV、AutoMapper、LINQ、DI 容器與 Http 工具套件
-  - 在三個以上實戰專案中成功導入共用模組，提升效率與一致性
+- **Internal Tooling & Code Reuse**
+  - 自行開發 DI 容器、AutoMapper、Http 請求模組、泛型 CSV 工具與 LINQ 延伸套件
+  - 成功應用於多個實戰專案，建立共用邏輯與標準化模組以提升整體開發效率與一致性
 
-- **Data Analysis & Visualization**
-  - 使用 Python 進行 FFT、統計分析與 matplotlib 圖表產出
-  - 開發模組化分析流程供團隊快速應用於天文模擬研究
+- **Code Quality & Team Practices**
+  - 熟悉 Git / GitFlow 分支流程，具備多人協作與版本控制經驗
+  - 重視命名規範、程式結構一致性與重構流程，提升可讀性與維護性
+
 
 ## 📫 Contact Me
 
