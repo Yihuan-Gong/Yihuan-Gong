@@ -4,12 +4,11 @@
 
 ---
 
-## 🛠 Languages and Tools
+## 🛠️ Languages and Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/WinForms-0078D7?style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -46,6 +45,35 @@
 - Email: your.email@example.com
 - LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
 
+
+## 💡 Core Skills and Knowledge
+
+- **Architecture & Design**
+  - 熟悉 SOLID 原則、MVP 架構與多層式模組設計
+  - 具備使用 DI（依賴注入）與 AutoMapper 建立解耦架構經驗
+
+- **Asynchronous & Performance**
+  - 熟悉 async / await / Task 非同步程式設計
+  - 實作非阻塞 UI、多執行緒處理與 Thread 安全控制
+  - 優化 CSV 大量資料讀寫與平行處理
+
+- **Networking & API Integration**
+  - 串接 RESTful API（Imgur、Google OAuth、Line Notify）
+  - 自製 HttpRequest 套件支援非同步與授權管理
+  - 熟悉 TCP/IP、HTTP、DNS、封包結構與網路層級原理
+
+- **Tooling & Testing**
+  - 撰寫單元測試、熟悉 TDD 流程
+  - 使用 Git / GitFlow 進行多人開發與版本控管
+  - 建立 Visual Studio 專案模板與開發流程標準化
+
+- **Reusable Libraries & Internal Tooling**
+  - 自製 CSV、AutoMapper、LINQ、DI 容器與 Http 工具套件
+  - 在三個以上實戰專案中成功導入共用模組，提升效率與一致性
+
+- **Data Analysis & Visualization**
+  - 使用 Python 進行 FFT、統計分析與 matplotlib 圖表產出
+  - 開發模組化分析流程供團隊快速應用於天文模擬研究
 
 
 
